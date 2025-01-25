@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "12713000000007080",
+      "name": "temple",
+      "domain": {
+        "id": "50024660232",
+        "name": "temple-60036799910.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60036799910",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
